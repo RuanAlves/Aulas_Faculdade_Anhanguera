@@ -15,7 +15,7 @@
     - *PostgreSQL* (prioritariamente)
 - As entidades deversão ser criadas como tabelas utilizando a ferramenta de migração **Flyway**. Portanto, os scripts de **migrations** para geração das tabelas devem ser enviados no teste
 - Sua API deverá seguir os padrões REST na construção das rotas e retornos
-- Sua API deverá conter documentação viva utilizando a *OpenAPI Specification* (**Swagger**)
+- Sua API deverá conter documentação viva utilizando a *OpenAPI Specification* (**Swagger**), ou sua API deverá conter a collection/variáveis do postman
 - Caso haja alguma particularidade de implementação, instruções para execução do projeto deverão ser enviadas
 
 # 🎁 Extra
@@ -27,6 +27,7 @@
 - Estrutura do projeto
 - Utilização de código limpo e princípios **SOLID**
 - Boas práticas da Linguagem/Framework
+- Migrations para a criação das tabelas do banco relacional
 - Seu projeto deverá seguir tudo o que foi exigido na seção  [O que desenvolver?]
 
 # 🖥 O que desenvolver?
