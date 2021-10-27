@@ -3,6 +3,7 @@
 ## 🏗 O que fazer?
 
 - Você deve criar um projeto no git ou enviar o código para o email: ruan.a.bessa@kroton.com.br (No caso, se for git, enviar o link)
+- Poderá ser realizado em dupla ou individual
 - Data final para entrega: 26/11/2021
 - Poderemos acrescentar mais requisitos no projeto, até o dia 19/11/2021
 
