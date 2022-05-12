@@ -8,8 +8,7 @@
 
 # 🚨 Requisitos
 
-- Deve ser construido apenas utilizando: Html, CSS (Obrigatórios) e se caso desejar pode utilizar (Bootstrap e JavaScript)
-- No caso o projeto deverá ser baixado e ser executado com maior simplicidade, sem precisar do professor intalar nada
+- Este trabalho deve ser feito de acordo com o padrão ABNT
 
 # 🕵🏻‍♂️ Itens a serem avaliados
 
