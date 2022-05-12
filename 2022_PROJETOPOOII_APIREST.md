@@ -2,10 +2,9 @@
 
 ## 🏗 O que fazer?
 
-- Você deve criar um projeto no git ou enviar o código para o email: ruan.a.bessa@kroton.com.br (No caso, se for git, enviar o link)
+- Você deve criar um projeto no git ou enviar o código para o email: ruan.a.bessa@kroton.com.br/ferreira.bessa@hotmail.com (No caso, se for git, enviar o link)
 - Poderá ser realizado em dupla ou individual
-- Data final para entrega: ##/##/####
-- Poderemos acrescentar mais requisitos no projeto, até o dia ##/##/####
+- Data final para entrega: 10/06/2022
 
 # 🚨 Requisitos
 
@@ -19,7 +18,7 @@
 - Sua API deverá conter documentação viva utilizando a *OpenAPI Specification* (**Swagger**), ou sua API deverá conter a collection/variáveis do postman
 - Caso haja alguma particularidade de implementação, instruções para execução do projeto deverão ser enviadas
 
-# 🎁 Extra
+# 🎁 Extra (Não obrigatório)
 
 - Testes unitários (Pesquisar utilização, e documentar os testes também)
 
