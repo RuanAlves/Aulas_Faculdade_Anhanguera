@@ -4,7 +4,7 @@
 
 - Realizar um estudo de caso de algum sistema existente que utiliza Sistema Distribuidos. (Não pode ser nenhum sistema da GOOGLE)
 - Segue um link de um estudo de caso já pronto para apreciação e exemplo (https://drive.google.com/file/d/1KopmJJwar7aVeOrjygAkoBxDI32P2vPm/view?usp=sharing)
-- Data final para entrega: 12/06/2022
+- Data final para entrega: 10/06/2022
 
 # 🚨 Requisitos
 
